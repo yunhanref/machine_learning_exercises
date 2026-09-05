@@ -5,6 +5,6 @@ Predicts the price of California houses.
 
 ---
 ## linear regression 2:
-Predicts the speed of a pokemons given attributes.
+Predicts the speed of a pokemon by using its given attributes.
 <img alt="mlr2" src="linear_regression/mlr_2.png" />
 
