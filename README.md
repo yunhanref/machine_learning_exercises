@@ -1,6 +1,6 @@
 
 ## linear regression 1:
-Predicts the price of California houses.
+Predicts prices of California houses.
 <img alt="mlr1" src="linear_regression/mlr_1.png" />
 
 ---
